@@ -63,7 +63,7 @@ function LinkForAns() {
                 
                 a.title = "Link For Answers"; 
                 
-                a.href = "file:///C:/Users/AMAN/Desktop/Major%20Project/Question&Answers.html"; 
+                a.href = ""; //Add the URL of Question&Answers file where you have placed the file.
                 
                 document.body.appendChild(a); 
             };
